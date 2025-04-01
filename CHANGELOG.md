@@ -1,5 +1,27 @@
 # Changelog
 
+## [4.20.0](https://github.com/openfoodfacts/smooth-app/compare/v4.19.0...v4.20.0) (2025-04-01)
+
+
+### Features
+
+* 6289 - bulk proof upload page ([#6437](https://github.com/openfoodfacts/smooth-app/issues/6437)) ([96d54b9](https://github.com/openfoodfacts/smooth-app/commit/96d54b90021182bea2ed9a209cb1279c0d353083))
+* added shortcut link for community calendar (closes [#5536](https://github.com/openfoodfacts/smooth-app/issues/5536)) ([#6472](https://github.com/openfoodfacts/smooth-app/issues/6472)) ([d9648b1](https://github.com/openfoodfacts/smooth-app/commit/d9648b14c69e34293a27c1658390f92cba915276))
+* added some shortcut links in prices section ([#6408](https://github.com/openfoodfacts/smooth-app/issues/6408)) ([9850ebe](https://github.com/openfoodfacts/smooth-app/commit/9850ebe8c6be6e02e91ceb9f1491ade67ba441d5))
+* Food icons for the product page ([#6387](https://github.com/openfoodfacts/smooth-app/issues/6387)) ([19aef3b](https://github.com/openfoodfacts/smooth-app/commit/19aef3b3da1786201f49609401dd0830c55f848f))
+
+
+### Bug Fixes
+
+* 6426 - remove items in comparisons from scan header ([#6433](https://github.com/openfoodfacts/smooth-app/issues/6433)) ([e765a30](https://github.com/openfoodfacts/smooth-app/commit/e765a308003a34523e8d339534b926b93d9ca36b))
+* 6494 - removed "experimental" effects from prices card ([#6496](https://github.com/openfoodfacts/smooth-app/issues/6496)) ([442b9f8](https://github.com/openfoodfacts/smooth-app/commit/442b9f8a2ff6ce61cd36c47abc05f9349e3bee9b))
+* Added dynamic padding to reach Sign Up button and Create Account button with the keyboard open ([#6467](https://github.com/openfoodfacts/smooth-app/issues/6467)) ([d424ddf](https://github.com/openfoodfacts/smooth-app/commit/d424ddf6730130e6cfb207e362d0242ef944a13d))
+* Center loading indicator in "My proofs" screen issue ([#6465](https://github.com/openfoodfacts/smooth-app/issues/6465)) ([9caeaee](https://github.com/openfoodfacts/smooth-app/commit/9caeaee542afe017d6862115ff0f93ecfeb5aed4))
+* Fixed negative amount issue ([#6477](https://github.com/openfoodfacts/smooth-app/issues/6477)) ([86821ec](https://github.com/openfoodfacts/smooth-app/commit/86821ec7ef834bc302d7ee225d36916c0eda4242))
+* language filter to include English names ([#6498](https://github.com/openfoodfacts/smooth-app/issues/6498)) ([6935ed8](https://github.com/openfoodfacts/smooth-app/commit/6935ed85f72d50b7e7bdc7b853e0a4e1f7323fd5))
+* resolve layout overflow in first-time price privacy dialog ([#6402](https://github.com/openfoodfacts/smooth-app/issues/6402)) ([c63e24a](https://github.com/openfoodfacts/smooth-app/commit/c63e24a97370aebc94b56606cf1f9f99e83a4d28))
+* updated new nutri score page labels ([#6455](https://github.com/openfoodfacts/smooth-app/issues/6455)) ([d3696eb](https://github.com/openfoodfacts/smooth-app/commit/d3696eb855d7fa71d6b2b80c0b903522508b63de))
+
 ## [4.19.0](https://github.com/openfoodfacts/smooth-app/compare/v4.18.1...v4.19.0) (2025-03-10)
 
 
